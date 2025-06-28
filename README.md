@@ -1,4 +1,6 @@
-# 👋🏽 I'm Jr:
+![](banner.png)
+
+# 👋🏽 Hey, I'm Jr:
 💻 I built scalable and durable data platforms & help businesses<br>👨🏾‍💻 Coding and experimenting<br>📍 Currently in Paris<br>🌱  I’m currently learning GenAI while improving my coding skills.<br><br>🔔 Follow my journey on Tiktok or LinkedIn<br>
 
 
