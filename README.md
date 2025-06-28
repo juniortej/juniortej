@@ -1,4 +1,5 @@
-![](banner.png)
+![banner](https://github.com/user-attachments/assets/be7fbdc6-2267-435a-8992-10997f0e53d7)
+
 
 # 👋🏽 Hey, I'm Jr:
 💻 I built scalable and durable data platforms & help businesses<br>👨🏾‍💻 Coding and experimenting<br>📍 Currently in Paris<br>🌱  I’m currently learning GenAI while improving my coding skills.<br><br>🔔 Follow my journey on Tiktok or LinkedIn<br>
