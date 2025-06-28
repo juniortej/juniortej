@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/be7fbdc6-2267-435a-8992-10997f0e53d7)
+![banner](https://github.com/user-attachments/assets/f2d7f45a-6002-4f03-8587-91b8610d024f)
 
 
 # 👋🏽 Hey, I'm Jr:
